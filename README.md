@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=welcome%20to-nl-eunseong's%20github&fontSize=50&animation=fadeIn&fontColor=8B4513" />
 </div>
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+-->
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -30,13 +29,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
+<!--
 <br>
-
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
 </div>
-
+-->
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
