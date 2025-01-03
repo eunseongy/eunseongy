@@ -53,6 +53,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eunseongy&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />&nbsp
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunseongy&layout=compact" />&nbsp
+</div>
+<br>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
@@ -60,6 +72,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp 
 </div>
+
 
 
 
